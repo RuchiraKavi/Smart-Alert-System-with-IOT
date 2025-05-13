@@ -1,0 +1,2 @@
+D:/Acadamics/4th year/Reasearch/untitled1/android/app/.cxx/Debug/5k4w4o6k/x86_64/CMakeFiles/edit_cache.dir
+D:/Acadamics/4th year/Reasearch/untitled1/android/app/.cxx/Debug/5k4w4o6k/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+
+  "project_info": {
+    "project_number": "929160930884",
+    "project_id": "safemate-3180b",
+    "storage_bucket": "safemate-3180b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929160930884:android:eec0a7d7c99e91f4d53e11",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDSxhiPZVu4qsDCDAg4GvdMLN44S7oLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
